@@ -6,7 +6,6 @@ A collection of Python programs created while learning and practicing Python pro
 This repository contains Python programs covering basic programming concepts, syntax, logic building and problem-solving exercises.
 
 ## Topics Covered
-
 - Python syntax and fundamentals
 - Variables and data types
 - Input and output
