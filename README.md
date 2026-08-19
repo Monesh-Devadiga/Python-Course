@@ -35,7 +35,7 @@ This repository contains Python programs covering basic programming concepts, sy
 | `7.py` | Dictionaries Operations, Methods and Functions |
 | `8.py` | If, Else, Elif Conditional Statements |
 | `9.py` | While Loops, Break and Continue, Nested Loops |
-| `10.py` | Python practice program 10 |
+| `10.py` | For Loops, Range, Enumerate  |
 | `11.py` | Python practice program 11 |
 
 ## Requirements
