@@ -46,5 +46,5 @@ python --version
 ### Reference : https://youtu.be/8c74mXV2lJ0
 
 ---------------------------------------------------------------------------------------------------------------------
-Created By: 
+This repo is Created and Managed By: 
   [@Monesh Devadiga](https://github.com/Monesh-Devadiga)
