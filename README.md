@@ -32,7 +32,7 @@ This repository contains Python programs covering basic programming concepts, sy
 | `06.py` | Tuples and Sets Operations & Difference |
 | `07.py` | Dictionaries Operations, Methods and Functions |
 | `08.py` | If, Else, Elif Conditional Statements |
-| `9.py` | While Loops, Break and Continue, Nested Loops |
+| `09.py` | While Loops, Break and Continue, Nested Loops |
 | `10.py` | For Loops, Range, Enumerate  |
 | `11.py` | Comprehension, List Input and Loops Revision |
 
