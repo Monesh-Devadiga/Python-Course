@@ -1,8 +1,6 @@
 # Python Course
 
 A collection of Python programs created while learning and practicing Python programming fundamentals.
-
-## About
 This repository contains Python programs covering basic programming concepts, syntax, logic building and problem-solving exercises.
 
 ## Topics Covered
