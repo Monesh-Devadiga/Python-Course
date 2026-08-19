@@ -31,7 +31,7 @@ This repository contains Python programs covering basic programming concepts, sy
 | `3b.py` | String Data Type & Access and Manipulation |
 | `4.py` | Operators in Python |
 | `5.py` | Lists Operations, Methods and Functions |
-| `6.py` | Python practice program 6 |
+| `6.py` | Tuples and Sets Operations & Difference |
 | `7.py` | Python practice program 7 |
 | `8.py` | Python practice program 8 |
 | `9.py` | Python practice program 9 |
