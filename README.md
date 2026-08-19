@@ -27,8 +27,8 @@ This repository contains Python programs covering basic programming concepts, sy
 |------|-------------|
 | `01.py` | Print statement |
 | `2.py` | Variables and Data Types in Python |
-| `3.py` | Input and Output/Print | Comments |
-| `3b.py` | Additional practice program |
+| `3.py` | Input and Output/Print & Comments |
+| `3b.py` | String Data Type & Access and Manipulation |
 | `4.py` | Python practice program 4 |
 | `5.py` | Python practice program 5 |
 | `6.py` | Python practice program 6 |
