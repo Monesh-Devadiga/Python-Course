@@ -37,7 +37,7 @@ This repository contains Python programs covering basic programming concepts, sy
 | `11.py` | Comprehension, List Input and Loops Revision |
 
 ## Requirements
-- Python 3
+- Python
 - VS Code or any Python-compatible IDE
 - Check your Python installation:
 ```bash
