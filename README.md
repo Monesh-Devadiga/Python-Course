@@ -34,7 +34,7 @@ This repository contains Python programs covering basic programming concepts, sy
 | `6.py` | Tuples and Sets Operations & Difference |
 | `7.py` | Dictionaries Operations, Methods and Functions |
 | `8.py` | If, Else, Elif Conditional Statements |
-| `9.py` | Python practice program 9 |
+| `9.py` | While Loops, Break and Continue, Nested Loops |
 | `10.py` | Python practice program 10 |
 | `11.py` | Python practice program 11 |
 
