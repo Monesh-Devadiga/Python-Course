@@ -4,7 +4,7 @@ a1=100
 b=500
 print(a1)
 print(b)
-print(a1+b)
+print(a1+b) 
 
 #string
 name="Monesh"
