@@ -8,7 +8,7 @@ for num in l:
     total+=num
 print(total)
 """
- s
+ 
 """
 #loop in dictonaries
 st_mark={"manu":85, "rahul":85, "abhi":67}
