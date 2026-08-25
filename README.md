@@ -12,7 +12,7 @@ This repository contains Python programs covering basic programming concepts, sy
 - Loops
 - Functions
 - Lists
-- Tuples
+- Tuples 
 - Dictionaries
 - Sets
 - String operations
