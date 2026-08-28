@@ -1,5 +1,5 @@
 #Comprehension | List Input | Loops Revision
-nopqrstuvw
+nopqrstuvwx
 """  
 #loop in list
 l=[1,2,3,4,5]
