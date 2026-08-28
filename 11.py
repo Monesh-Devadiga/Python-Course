@@ -1,6 +1,6 @@
 #Comprehension | List Input | Loops Revision
 
-"""
+""" a
 #loop in list
 l=[1,2,3,4,5]
 total=0
