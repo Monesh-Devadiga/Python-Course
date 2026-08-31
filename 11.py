@@ -7,7 +7,7 @@ total=0
 for num in l:
     total+=num
 print(total)
-"""a
+"""
 
 """
 #loop in dictonaries
