@@ -1,4 +1,4 @@
-#Comprehension  |  List Input  | Loops Revision
+#Comprehension  |  List Input  |  Loops Revision
 
 """  
 #loop in list
