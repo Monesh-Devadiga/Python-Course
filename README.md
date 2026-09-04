@@ -44,7 +44,7 @@ This repository contains Python programs covering basic programming concepts, sy
 python --version
 ```
 #### Reference : https://youtu.be/8c74mXV2lJ0
-Notes: https://github.com/chandansgowda/learn-python-in-kannada/tree/main/notes
+#####Notes: https://github.com/chandansgowda/learn-python-in-kannada/tree/main/notes
 ---------------------------------------------------------------------------------------------------------------------
 This repo is Created and Managed By: 
   [@Monesh Devadiga](https://github.com/Monesh-Devadiga),
