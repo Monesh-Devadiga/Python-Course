@@ -53,8 +53,6 @@ I learned Python using the Python in Kannada course and notes by [@Chandan Gowda
 [Click Here](https://github.com/chandansgowda/learn-python-in-kannada) for course repo.  
 Reference : https://youtu.be/8c74mXV2lJ0
 
-This repository is maintained by @Monesh_Devadiga for educational purposes.
-
 ---------------------------------------------------------------------------------------------------------------------
 This repo is Created and Managed By: 
   [@Monesh Devadiga](https://github.com/Monesh-Devadiga),
