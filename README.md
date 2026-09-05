@@ -52,9 +52,8 @@ python --version
 ## Credits
 This repository contains my Python learning and practice files.  
 I learned Python using the Python in Kannada course and notes by [@Chandan Gowda](https://github.com/chandansgowda).
-
 Click Here:
-[Course Repository](https://github.com/chandansgowda/learn-python-in-kannada)
+[Course Repository](https://github.com/chandansgowda/learn-python-in-kannada)  
 Reference : https://youtu.be/8c74mXV2lJ0
 
 This repository is maintained by @Monesh_Devadiga for educational purposes.
