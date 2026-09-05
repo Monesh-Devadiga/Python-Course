@@ -46,8 +46,6 @@ This repository contains Python programs covering basic programming concepts, sy
 ```bash
 python --version
 ```
-#### Reference : https://youtu.be/8c74mXV2lJ0
-##### Notes: https://github.com/chandansgowda/learn-python-in-kannada/tree/main/notes
 
 ## Credits
 This repository contains my Python learning and practice files.  
