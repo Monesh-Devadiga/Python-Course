@@ -36,7 +36,7 @@ This repository contains Python programs covering basic programming concepts, sy
 | `10.py` | For Loops, Range, Enumerate  |
 | `11.py` | Comprehension, List Input and Loops Revision |
 | `12.py` | Functions, Parameters, Local vs Global var |
-| `13.py` | Comprehension, List Input and Loops Revision |
+| `13.py` | Lambda Functions, Recursion, args and kwargs |
 
 ## Requirements
 - Python
