@@ -43,6 +43,7 @@ This repository contains Python programs covering basic programming concepts, sy
 | `17a,b.py` | Pillars of OOP |
 | `18.py` | Getters Setters, Overloading & Overriding, Abstract Class |
 | `19.py` | Menu Driven - Simple Calculator |
+| `14a,b,c,d,e.py` | Problem Solving |
 
 ## Requirements
 - Python
