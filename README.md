@@ -45,7 +45,7 @@ This repository contains Python programs covering basic programming concepts, sy
 | `19.py` | Menu Driven - Simple Calculator |
 | `20(1,2).py` | 1)Banking System Simulation, 2)Students Report Generation |
 | `21.py` | SOLID Principles in OOP |
-| `21.py` | SOLID Principles in OOP |
+| `22.py` | SOLID Principles in OOP |
 
 ## Requirements
 - Python
