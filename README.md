@@ -38,6 +38,7 @@ This repository contains Python programs covering basic programming concepts, sy
 | `12.py` | Functions, Parameters, Local vs Global var |
 | `13.py` | Lambda Functions, Recursion, args and kwargs |
 | `14a,b,c,d,e.py` | Problem Solving |
+| `14a,b,c,d,e.py` | Problem Solving |
 
 ## Requirements
 - Python
