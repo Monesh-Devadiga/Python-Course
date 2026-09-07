@@ -39,6 +39,7 @@ This repository contains Python programs covering basic programming concepts, sy
 | `13.py` | Lambda Functions, Recursion, args and kwargs |
 | `14a,b,c,d,e.py` | Problem Solving |
 | `15.py` | OOP Introduction |
+| `14a,b,c,d,e.py` | Problem Solving |
 
 ## Requirements
 - Python
