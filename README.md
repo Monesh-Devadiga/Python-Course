@@ -4,7 +4,7 @@ A collection of Python programs created while learning and practicing Python pro
 This repository contains Python programs covering basic programming concepts, syntax, logic building and problem-solving exercises.
   
 ## Topics Covered in Files
-- Python syntax and fundamentals
+<!--- Python syntax and fundamentals
 - Variables and data types
 - Input and output
 - Operators
@@ -18,8 +18,7 @@ This repository contains Python programs covering basic programming concepts, sy
 - String operations
 - Basic problem solving
 - Python programming exercises
-
-## Files
+## Files-->
 
 | File | Description |
 |------|-------------|
