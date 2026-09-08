@@ -9,7 +9,7 @@ This repository contains Python programs covering basic programming concepts, sy
 - Input and output
 - Operators
 - Conditional statements
-- Loops
+- Loops 
 - Functions
 - Lists
 - Tuples 
