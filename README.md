@@ -45,7 +45,7 @@ This repository contains Python programs covering basic programming concepts, sy
 | `20(1,2).py` | 1)Banking System Simulation, 2)Students Report Generation |
 | `21.py` | SOLID Principles in OOP |
 | `22.py` | Errors and Exception Handling |
-
+a
 ## Requirements
 - Python
 - VS Code or any Python-compatible IDE
