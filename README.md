@@ -19,8 +19,7 @@ This repository contains Python programs covering basic programming concepts, sy
 - Basic problem solving
 - Python programming exercises
 ## Files-->
-as
-
+a
 | File | Description |
 |------|-------------|
 | `01.py` | Print statement |
